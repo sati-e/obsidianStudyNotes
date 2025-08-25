@@ -23,20 +23,16 @@ Localização dos endereços MAC de destino e de origem, e informações adicion
 
 ↳ **É o processo de transformar “a carta” em “o envelope”**
 
-Um formato de mensagem é colocada em um quadro específico Antes de serem enviadas pela rede, as mensagens são colocadas em um **quadro específico**, que contém:
+Um formato de mensagem é colocada em um quadro específico, antes de serem enviadas pela rede, as mensagens são colocadas em um **quadro específico**, que contém:
 
 - o **endereço de destino**
-    
 - o **endereço de origem**
-    
 
 Assim, os dados podem ser transmitidos e processados corretamente.
 
 - **Desencapsulamento:** é o processo inverso, realizado pelo receptor, que **retira a mensagem do envelope** para que ela possa ser lida.
-    
 
 📌 **Frame (quadro):** cada mensagem é encapsulada em um formato específico para o tráfego na rede.
-
 
 # Ethernet Switches
 
