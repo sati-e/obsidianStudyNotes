@@ -1,8 +1,8 @@
-## <font color="#92cddc">Ethernet - Padrão de comunicação para redes locais cabeadas</font>
+## <font color="#ffffff">Ethernet - Padrão de comunicação para redes locais cabeadas</font>
 
  *:LiEqualNot: de wi-fi (ondas de rádio)*
 
-Ethernet é utilizada para conectar dispositivos de redes locais (LAN) :LiArrowRight: Ele define regras e padrões para a transmissão de dados em redes de computadores, permitindo a comunicação entre **dispositivos, computadores, switches, roteadores e servidores**.
+<p align="justify">Ethernet é utilizada para conectar dispositivos de redes locais (LAN) :LiArrowRight: Ele define regras e padrões para a transmissão de dados em redes de computadores, permitindo a comunicação entre **dispositivos, computadores, switches, roteadores e servidores**.</p>
 
 - Utiliza **cabos de par trançado** ou **fibra óptica**.
 - É uma **tecnologia de rede**.
