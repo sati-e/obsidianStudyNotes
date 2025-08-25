@@ -2,7 +2,7 @@
 
  *:LiEqualNot: de wi-fi (ondas de rádio)*
 
-_Ethernet is used to connect devices of a local network (LAN) :LiArrowRight It defines rules, patterns for data transmission on computers Network._
+Ethernet é utilizada para conectar redes locais (LAN) :LiArrowRight:It defines rules, patterns for data transmission on computers Network._
 
 Allowing the communication between devices, computers, switches, routers and servers.
 
