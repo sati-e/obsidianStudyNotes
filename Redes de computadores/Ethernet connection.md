@@ -1,8 +1,8 @@
 ## Ethernet - Padrão de comunicação para redes locais cabeadas
 
- :LiEqualNot: de wi-fi (ondas de rádio)
+ *:LiEqualNot: de wi-fi (ondas de rádio)*
 
-_Ethernet is used to connect devices of a local network (LAN). It defines rules, patterns for data transmission on computers Network._
+_Ethernet is used to connect devices of a local network (LAN) :LiArrowRight It defines rules, patterns for data transmission on computers Network._
 
 Allowing the communication between devices, computers, switches, routers and servers.
 
