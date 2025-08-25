@@ -13,8 +13,8 @@ localização dos endereços MAC de destino e de origem, e informações adicion
 
 - Ethernet protocol - 2 frame OSI (Enlace de dados)
 
-<aside> 
-Preciso alinhar os dispositivos conectados na internet para conseguir acessar de fato a velocidade que gostaria, para saber o formato e o tamanho, a temporização e a codificação.
+
+>Preciso alinhar os dispositivos conectados na internet para conseguir acessar de fato a velocidade que gostaria, para saber o formato e o tamanho, a temporização e a codificação.
 
 
 **NIC - Network Interface Card:** Ethernet used to access LAN Ethernet.
