@@ -6,7 +6,7 @@ _Ethernet is used to connect devices of a local network (LAN). It defines rules,
 
 Allowing the communication between devices, computers, switches, routers and servers.
 
-- Cabos de par trançado ou fibra optica
+- Cabos de par trançado ou fibra óptica
 
 Tecnologia de rede
 
