@@ -18,7 +18,6 @@ Localização dos endereços MAC de destino e de origem, e informações adicion
 **NIC - Network Interface Card:** Ethernet used to access LAN Ethernet.
 
 - Have a **MAC - Media Access Control:** NIC permanent address
-
 # Encapsulation
 
 ↳ **É o processo de transformar “a carta” em “o envelope”**
