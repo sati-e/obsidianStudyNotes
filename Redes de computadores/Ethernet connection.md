@@ -21,15 +21,22 @@ Localização dos endereços MAC de destino e de origem, e informações adicion
 
 # Encapsulation
 
-↳ **The process of changing _the letter_ to _the envelope_**
+↳ **É o processo de transformar “a carta” em “o envelope”**
 
-Um formato de mensagem é colocada em um quadro específico antes de ser enviada para a rede, fornecendo o endereço do destino e o host de origem.
+Um formato de mensagem é colocada em um quadro específico Antes de serem enviadas pela rede, as mensagens são colocadas em um **quadro específico**, que contém:
 
-Messages sending on a network needs to follow’s the specific rules in order to be sent and processed.
+- o **endereço de destino**
+    
+- o **endereço de origem**
+    
 
-The De-encapsulation occurs when the process is inverted by de receiver and the message is removed from the envelope
+Assim, os dados podem ser transmitidos e processados corretamente.
 
-**FRAME** - Each message is capsulated on a specific format
+- **Desencapsulamento:** é o processo inverso, realizado pelo receptor, que **retira a mensagem do envelope** para que ela possa ser lida.
+    
+
+📌 **Frame (quadro):** cada mensagem é encapsulada em um formato específico para o tráfego na rede.
+
 
 # Ethernet Switches
 
