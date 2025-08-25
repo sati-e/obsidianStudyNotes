@@ -4,15 +4,12 @@
 
 Ethernet é utilizada para conectar dispositivos de redes locais (LAN) :LiArrowRight: Ele define regras e padrões para a transmissão de dados em redes de computadores, permitindo a comunicação entre **dispositivos, computadores, switches, roteadores e servidores**.
 
-Allowing the communication between devices, computers, switches, routers and servers.
+- Utiliza **cabos de par trançado** ou **fibra óptica**.
+- É uma **tecnologia de rede**.
+- Segue o padrão **IEEE 802.3, 802.3u**.
 
-- Cabos de par trançado ou fibra óptica
-
-Tecnologia de rede
-
-Padrão IEEE 802.3, 802.3u
-
-**O formato dos quadros Ethernet** - localização dos endereços MAC de destino e de origem, e informações adicionais, incluindo preâmbulo para sequenciamento e temporização, início do delimitador de quadro, cumprimento e tipo de quadro e sequência de verificação de quadro para detectar erros de transmissão.
+##O formato dos quadros Ethernet 
+localização dos endereços MAC de destino e de origem, e informações adicionais, incluindo preâmbulo para sequenciamento e temporização, início do delimitador de quadro, cumprimento e tipo de quadro e sequência de verificação de quadro para detectar erros de transmissão.
 
 - Ethernet protocol - 2 frame OSI (Enlace de dados)
 
