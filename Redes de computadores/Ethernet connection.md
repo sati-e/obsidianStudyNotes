@@ -8,7 +8,7 @@ Ethernet é utilizada para conectar dispositivos de redes locais (LAN) :LiArrowR
 - É uma **tecnologia de rede**.
 - Segue o padrão **IEEE 802.3, 802.3u**.
 
-### <font color="#ffffff">formato dos quadros Ethernet </font>
+### <font color="#000000">Formato dos quadros Ethernet </font>
 Localização dos endereços MAC de destino e de origem, e informações adicionais, incluindo preâmbulo para sequenciamento e temporização, início do delimitador de quadro, cumprimento e tipo de quadro e sequência de verificação de quadro para detectar erros de transmissão.
 
 - Ethernet protocol - 2 frame OSI (Enlace de dados)
