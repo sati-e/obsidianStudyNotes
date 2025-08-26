@@ -6,7 +6,7 @@ Ethernet é utilizada para conectar dispositivos de redes locais (LAN) :LiArrowR
 
 - Utiliza **cabos de par trançado** ou **fibra óptica**.
 - É uma **tecnologia de rede**.
-- Segue o padrão [[**IEEE 802.3, 802.3u**#]].
+- Segue o padrão [[IEEE]] 802.3, 802.3u.
 	- Especifica o meio físico e as características de funcionamento da Ethernet. Essas conexões físicas são feitas entre nós ou dispositivos, como roteadores, switches, hubs, por meio de cabos.
 
 ### <font color="#000000">Formato dos quadros Ethernet </font>
