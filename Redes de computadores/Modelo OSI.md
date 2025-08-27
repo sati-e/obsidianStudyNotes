@@ -21,4 +21,9 @@
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
 #### <u>FUNÇÕES</u>:
-- Taxa de dados: Número de bits enviados a cada segundo
+- Taxa de dados
+	- Número de bits enviados a cada segundo, define o tempo de duração de um bit no meio
+- Sincronização de bits
+	- Clocks do transmissor e do receptor devem estar sincronizados
+- Configuração da linha
+	- 
