@@ -14,6 +14,11 @@
 - TCP/IP: Física, junto com a de enlace de dados
 - Responde a requisições de serviço da camada de Enlace:
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
+
+CODIFICAÇÃO DE SINAIS
+- 
+
+- Não gerencia diretamente o meio de transmissão onde os dados trafegam
 ### <u>FUNÇÕES</u>:
 - Entrega bit-a-bit
 - Especificação mecânica de conectores
@@ -21,4 +26,3 @@
 - Modulação e multiplexação de sinais <font color="#7f7f7f">(frequência e taxa de transferências)</font>
 - Comutação de circuitos
 - Controle de fluxo e sinalização start-stop
-- Não gerencia diretamente
