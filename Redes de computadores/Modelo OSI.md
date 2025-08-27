@@ -11,7 +11,10 @@
 | <span style="background:rgba(240, 200, 0, 0.2)">3 - Network         | </span> Data trades by network between final device                                                                                                               | IP (endereçamento), ICMP (ping), roteadores                                                                     |
 | <span style="background:rgba(163, 67, 31, 0.2)">2 - Data link       | M</span>ethods for exchanging data frames between devices over a common media                                                                                     | Ethernet (cabos), Wifi (rede sem fio)                                                                           |
 | <span style="background:rgba(163, 67, 31, 0.2)">1 - Physical</span> | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device | Cabos de rede (UTP, fibra optica), sinais de rádio wifi, ondas 4G/5G                                            |
+
+
 ![[image-2.png]]
+
 ## 1 - FÍSICA
 *Transmissão dos dados pelo meio físico*
 - TCP/IP: Física, junto com a de enlace de dados
