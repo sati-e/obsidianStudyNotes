@@ -15,11 +15,11 @@
 - Responde a requisições de serviço da camada de Enlace:
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
-CODIFICAÇÃO DE SINAIS
+##### CODIFICAÇÃO DE SINAIS
 - 
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
-### <u>FUNÇÕES</u>:
+#### <u>FUNÇÕES</u>:
 - Entrega bit-a-bit
 - Especificação mecânica de conectores
 - Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância <font color="#7f7f7f">(resistência ao fluxo da corrente elétrica)</font>
