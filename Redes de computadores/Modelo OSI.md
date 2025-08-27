@@ -44,7 +44,7 @@
 *Garante que os dados sejam entregues sem erros e na ordem correta*
 - Transmissão dos frames (quadros) <font color="#7f7f7f">(sinais digitais encapsulados em pacotes de dados)</font>
 - Transforma a camada física em um link confiável
-
+- 
 
 
 Referências: 
