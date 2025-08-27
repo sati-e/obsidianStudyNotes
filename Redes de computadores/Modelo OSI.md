@@ -26,4 +26,16 @@
 - Sincronização de bits
 	- Clocks do transmissor e do receptor devem estar sincronizados
 - Configuração da linha
-	- 
+	- ponto-a-ponto, multiponto...
+- Topologia física
+	- Como os dispositivos estão conectados de modo a transformar uma rede
+
+
+
+
+
+
+
+
+Referências:
+- 
