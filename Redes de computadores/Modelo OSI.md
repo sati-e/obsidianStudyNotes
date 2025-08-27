@@ -12,6 +12,7 @@
 ## 1 - FÍSICA
 *Transmissão dos dados pelo meio físico*
 - TCP/IP: Física, junto com a de enlace de dados
+- Geren
 - Responde a requisições de serviço da camada de Enlace:
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
