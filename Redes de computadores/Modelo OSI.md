@@ -12,6 +12,6 @@
 ## 1 - Física
 - Camada mais baixa
 - Responde a requisições de serviço da camada de Enlace:
-:LiCornerDownRight:Transmissão  e recepção de dados digitais (bits) entre dois dispositivos
-- Bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
+	:LiCornerDownRight:Transmissão  e recepção de dados digitais (bits) entre dois dispositivos
+	- Bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
