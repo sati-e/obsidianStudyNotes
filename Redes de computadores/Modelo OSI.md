@@ -11,5 +11,6 @@
 | 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
 ## 1 - Física
 - Camada mais baixa
-- Transmissão  e recepção de dados digitais (bits) entre dois dispositivos
-	- Bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
+- Responde a requisições de serviço da camada de Enlace:
+	- :Transmissão  e recepção de dados digitais (bits) entre dois dispositivos
+		- Bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
