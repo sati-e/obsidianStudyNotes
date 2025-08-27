@@ -21,7 +21,9 @@
 ***CODIFICAÇÃO DE LINHA***
 ***Processo de converter dados binários em sinais digitais***
 - A forma como os 0s e 1s serão "escritos" no meio físico
-- Divididos em categorias:
+- Divididos em categorias
+
+CONVERSÃO DIGITAL-ANALÓ
 
 
 
