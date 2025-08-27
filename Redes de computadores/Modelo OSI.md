@@ -36,8 +36,9 @@
 - **Modo de transmissão:** Simplex, half-duplex ou full-duplex
 
 ## 2 - ENLACE DE DADOS
-Garante que os dados sejam entregues sem erros e na ordem correta
-
+*Garante que os dados sejam entregues sem erros e na ordem correta*
+- Transmissão dos frames (quadros)
+- Transforma a camada física em um link confiável
 
 
 
