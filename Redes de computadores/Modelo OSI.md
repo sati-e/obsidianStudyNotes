@@ -21,7 +21,7 @@
 ### CODIFICAÇÃO DE SINAIS
 ***CODIFICAÇÃO DE LINHA***
 ***Processo de converter dados binários em sinais digitais***
-- Transferência de sinais digitais e eletrônicos por meio de
+- Transferência de sinais digitais e eletrônicos por meio de canais físicos
 - A forma como os 0s e 1s serão "escritos" no meio físico
 - Divididos em categorias
 
@@ -38,7 +38,7 @@
 
 ## 2 - ENLACE DE DADOS
 *Garante que os dados sejam entregues sem erros e na ordem correta*
-- Transmissão dos frames (quadros)
+- Transmissão dos frames (quadros) <font color="#7f7f7f">(sinais digitais encapsulados em pacotes de dados)</font>
 - Transforma a camada física em um link confiável
 
 
