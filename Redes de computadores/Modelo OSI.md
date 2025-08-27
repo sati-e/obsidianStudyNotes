@@ -46,7 +46,7 @@
 	- CRC <font color="#7f7f7f">(permite verificar se os dados foram corrompidos durante a transmissão)</font>
 - Transmissão dos frames (quadros) <font color="#7f7f7f">(sinais digitais encapsulados em pacotes de dados)</font>
 - Transforma a camada física em um link confiável
-
+- Utiliza o MAC para enviar pacotes
 Seu **desempenho** pode ser medido por diversos parâmetros, incluindo **latência, taxa de erro e throughput**
 
 
