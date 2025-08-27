@@ -1,4 +1,4 @@
-Modelo teórico desenvolido pela ISO que descreve como os dados são transmitidos em uma rede de compu
+*Modelo teórico desenvolvido na década de 80 pela ISO que descreve como os dados são transmitidos em uma rede de computadores.*
 
 | OSI Layer        | Description                                                                                                                                                       |
 | :--------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,3 +9,4 @@ Modelo teórico desenvolido pela ISO que descreve como os dados são transmitido
 | 3 - Network      | Data trades by network between final device                                                                                                                       |
 | 2 - Data link    | Methods for exchanging data frames between devices over a common media                                                                                            |
 | 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
+
