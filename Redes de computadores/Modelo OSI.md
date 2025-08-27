@@ -1,3 +1,5 @@
+Modelo teórico desenvolido pela ISO que descreve como os dados são transmitidos em uma rede de compu
+
 | OSI Layer        | Description                                                                                                                                                       |
 | :--------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 7 - Application  | Have the protocols used for communication process to process                                                                                                      |
