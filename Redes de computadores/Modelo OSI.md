@@ -12,7 +12,7 @@
 ## 1 - FÍSICA
 *Transmissão dos dados pelo meio físico*
 - TCP/IP: Física, junto com a de enlace de dados
-- Geren
+- Define que tipo de meio deve ser usado
 - Responde a requisições de serviço da camada de Enlace:
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
@@ -21,9 +21,4 @@
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
 #### <u>FUNÇÕES</u>:
-- Entrega bit-a-bit
-- Especificação mecânica de conectores
-- Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância <font color="#7f7f7f">(resistência ao fluxo da corrente elétrica)</font>
-- Modulação e multiplexação de sinais <font color="#7f7f7f">(frequência e taxa de transferências)</font>
-- Comutação de circuitos
-- Controle de fluxo e sinalização start-stop
+- Taxa de dados: Número de bits enviados a cada segundo
