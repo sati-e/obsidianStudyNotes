@@ -9,7 +9,7 @@
 | 3 - Network      | Data trades by network between final device                                                                                                                       |
 | 2 - Data link    | Methods for exchanging data frames between devices over a common media                                                                                            |
 | 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
-## 1 - Física
+## 1 - FÍSICA
 *Transmissão dos dados pelo meio físico*
 - TCP/IP: Física, junto com a de enlace de dados
 - Responde a requisições de serviço da camada de Enlace:
@@ -17,5 +17,5 @@
 ### <u>FUNÇÕES</u>:
 - Entrega bit-a-bit
 - Especificação mecânica de conectores
-- Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância<font color="#7f7f7f"> (resistência ao fluxo da corrente elétrica)</font>
+- Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância <font color="#7f7f7f">(resistência ao fluxo da corrente elétrica)</font>
 - 
