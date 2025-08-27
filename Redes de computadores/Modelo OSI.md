@@ -21,6 +21,7 @@
 ### CODIFICAÇÃO DE SINAIS
 ***CODIFICAÇÃO DE LINHA***
 ***Processo de converter dados binários em sinais digitais***
+- Transferência de sinais digitais e eletrônicos por meio de
 - A forma como os 0s e 1s serão "escritos" no meio físico
 - Divididos em categorias
 
