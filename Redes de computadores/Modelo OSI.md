@@ -9,4 +9,6 @@
 | 3 - Network      | Data trades by network between final device                                                                                                                       |
 | 2 - Data link    | Methods for exchanging data frames between devices over a common media                                                                                            |
 | 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
-
+## 1 - Física
+- Camada mais baixa
+- Transmissão dos bits entre dois dispositivos
