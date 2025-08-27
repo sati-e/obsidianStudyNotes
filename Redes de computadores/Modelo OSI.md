@@ -48,7 +48,7 @@
 
 SUBCAMADAS:
 MAC
-
+LLC
 
 Referências: 
 [Introdução às Redes de Computadores IFRN](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/introducao-as-redes-de-computadores/2019.2/07-camada-fisica-i)
