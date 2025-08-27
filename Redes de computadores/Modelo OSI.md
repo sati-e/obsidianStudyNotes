@@ -2,15 +2,15 @@
 
 <center>Surgiu pela necessidade de padronizar a comunicação entre sistemas abertos</center>
 
-| OSI Layer        | Description                                                                                                                                                       |
-| :--------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7 - Application  | Have the protocols used for communication process to process                                                                                                      |
-| 6 - Presentation | Common representation of data transfer on services of each layer                                                                                                  |
-| 5 - Session      | Organizes dialogs and manage data trades                                                                                                                          |
-| 4 - Transport    | Segmentation, transfer, regroup data to individual communication between final device                                                                             |
-| 3 - Network      | Data trades by network between final device                                                                                                                       |
-| 2 - Data link    | Methods for exchanging data frames between devices over a common media                                                                                            |
-| 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
+| OSI Layer                                                   | Description                                                                                                                                                       |
+| :---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7 - Application                                             | Have the protocols used for communication process to process                                                                                                      |
+| 6 - Presentation                                            | Common representation of data transfer on services of each layer                                                                                                  |
+| <span style="background:rgba(3, 135, 102, 0.2)">5 - Session | Organizes dialogs and manage data trades       </span>                                                                                                            |
+| 4 - Transport                                               | Segmentation, transfer, regroup data to individual communication between final device                                                                             |
+| 3 - Network                                                 | Data trades by network between final device                                                                                                                       |
+| 2 - Data link                                               | Methods for exchanging data frames between devices over a common media                                                                                            |
+| 1 - Physical                                                | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
 ## 1 - FÍSICA
 *Transmissão dos dados pelo meio físico*
 - TCP/IP: Física, junto com a de enlace de dados
