@@ -10,6 +10,7 @@
 | 2 - Data link    | Methods for exchanging data frames between devices over a common media                                                                                            |
 | 1 - Physical     | Mechanical, electrical, functional and procedural means to activate, maintain and de-activate physical connection for a bit transition to and from network device |
 ## 1 - Física
-- **TCP/IP:** Física
+- TCP/IP: Física, junto com a de enlace de dados
+- Transmissão dos da
 - Responde a requisições de serviço da camada de Enlace:
-	:LiCornerDownRight:Transmissão e recepção de dados digitais (bits) entre dois dispositivos. Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
+	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
