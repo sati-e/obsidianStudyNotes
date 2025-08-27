@@ -23,7 +23,8 @@
 - A forma como os 0s e 1s serão "escritos" no meio físico
 - Divididos em categorias
 
-CONVERSÃO DIGITAL-ANALÓ
+***CONVERSÃO DIGITAL-ANALÓGICA***
+***Processo de mudar as características de um sinal analógico baseado nas informações de dados digitais***
 
 
 
