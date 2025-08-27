@@ -35,8 +35,8 @@
 - **Topologia física:** Como os dispositivos estão conectados de modo a transformar uma rede
 - **Modo de transmissão:** Simplex, half-duplex ou full-duplex
 
-
-
+## 2 - ENLACE DE DADOS
+Garante que os dados sejam entregues sem erros e na ordem correta
 
 
 
