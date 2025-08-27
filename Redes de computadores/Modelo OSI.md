@@ -17,7 +17,7 @@
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
 ##### CODIFICAÇÃO DE SINAIS
-- 
+- Codificação de linha
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
 #### <u>FUNÇÕES</u>:
@@ -25,8 +25,7 @@
 - **Sincronização de bits:** Clocks do transmissor e do receptor devem estar sincronizados
 - **Configuração da linha:** ponto-a-ponto, multiponto...
 - **Topologia física:** Como os dispositivos estão conectados de modo a transformar uma rede
-- **Modo de transmissão:**
-	- Simplex, half-duplex ou full-duplex
+- **Modo de transmissão:** Simplex, half-duplex ou full-duplex
 
 
 
