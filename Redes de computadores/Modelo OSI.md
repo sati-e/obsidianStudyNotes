@@ -12,3 +12,4 @@
 ## 1 - Física
 - Camada mais baixa
 - Transmissão dos bits entre dois dispositivos
+	- Bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
