@@ -17,4 +17,5 @@
 ### <u>FUNÇÕES</u>:
 - Entrega bit-a-bit
 - Especificação mecânica de conectores
-- Especificação elétrica de níveis de sinal de linhas de transmissão e impedância
+- Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância
+- 
