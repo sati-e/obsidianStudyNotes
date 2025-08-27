@@ -44,6 +44,7 @@
 *Garante que os dados sejam entregues sem erros e na ordem correta*
 - Controle de fluxo e delimitação de quadros
 - Detecção e correção de erros
+	- CRC <font color="#7f7f7f">(permite verificar se os dados foram corrompidos durante a transmissão)</font>
 - Transmissão dos frames (quadros) <font color="#7f7f7f">(sinais digitais encapsulados em pacotes de dados)</font>
 - Transforma a camada física em um link confiável
 - 
