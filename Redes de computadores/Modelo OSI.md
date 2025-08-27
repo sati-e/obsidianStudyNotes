@@ -17,7 +17,8 @@
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
 ##### CODIFICAÇÃO DE SINAIS
-- Codificação de linha
+###### <font color="#76923c">CODIFICAÇÃO DE LINHA</font>
+Processo de converter dados binários 
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
 #### <u>FUNÇÕES</u>:
