@@ -42,13 +42,11 @@
 
 ## 2 - ENLACE DE DADOS
 *Garante que os dados sejam entregues sem erros e na ordem correta*
-- Controle de fluxo e de erros
+- Controle de fluxo e delimitação de quadros
+- Detecção e correção de erros
 - Transmissão dos frames (quadros) <font color="#7f7f7f">(sinais digitais encapsulados em pacotes de dados)</font>
 - Transforma a camada física em um link confiável
-
-SUBCAMADAS:
-MAC
-LLC
+- 
 
 Referências: 
 [Introdução às Redes de Computadores IFRN](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/introducao-as-redes-de-computadores/2019.2/07-camada-fisica-i)
