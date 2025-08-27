@@ -18,4 +18,4 @@
 - Entrega bit-a-bit
 - Especificação mecânica de conectores
 - Especificação elétrica de níveis de sinal elétrico de linhas de transmissão e impedância <font color="#7f7f7f">(resistência ao fluxo da corrente elétrica)</font>
-- 
+- Modulação e multiplexação de sinais
