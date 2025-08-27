@@ -1,4 +1,5 @@
 *Modelo teórico desenvolvido na década de 80 pela ISO que descreve como os dados são transmitidos em uma rede de computadores.*
+- Surgiu pela necessidade de padronizar a comunicação entre sis
 
 | OSI Layer        | Description                                                                                                                                                       |
 | :--------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
