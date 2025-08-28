@@ -6,4 +6,4 @@ Grau de um vértice em um Grafo
 
 TEOREMA: para um grafo G=(V,A), tem-se 
 
-$$e^{2i\pi} = 1$$
+$$$$
