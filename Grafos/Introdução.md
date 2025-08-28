@@ -1,3 +1,6 @@
+#Grafos
+Links: [[]]
+
 *Objetos combinatórios abstratos e flexíveis*
 É um conjunto de vértices e arestas, onde cada aresta conecta dois vértices
 Utilizado em:
