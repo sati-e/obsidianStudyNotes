@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grau de um grafo"
+              "title": "Introdução"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Grau de um grafo"
+              "title": "Links inversos para Introdução"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Grau de um grafo"
+              "title": "Links de saída para Introdução"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Grau de um grafo"
+              "title": "Sumário de Introdução"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "0daaf388026d9577",
   "lastOpenFiles": [
-    "Grafos/Introdução.md",
     "Grafos/Grau de um grafo.md",
+    "Grafos/Introdução.md",
     "Sem título.md",
     "Redes de computadores/Ethernet connection.md",
     "Redes de computadores/IEEE.md",
