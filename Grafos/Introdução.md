@@ -1,5 +1,10 @@
 *Objetos combinatórios abstratos e flexíveis*
 É um conjunto de vértices e arestas, onde cada aresta conecta dois vértices
+Utilizado em:
+- Rede de computadores
+- Comunicação web
+- Árvores genealógicas
+- etc...
 <br>
 #### Teoria dos grafos
 Ramo da matemática que vai estudar relações entre objetos em um conjunto
@@ -16,8 +21,6 @@ Onde:
 
 ##### Exemplo
 ![[image-3.png]]
-
-
 
 
 Referências: 
