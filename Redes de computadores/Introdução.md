@@ -1,0 +1,1 @@
+Links: [[Ethernet connection]] [[IEEE]] [[Modelo OSI]]

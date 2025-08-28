@@ -1,5 +1,5 @@
 #Grafos
-Links: [[]]
+Links: [[Tipos de grafo]] [[Passeios]] [[Grau de um grafo]]
 
 *Objetos combinatórios abstratos e flexíveis*
 É um conjunto de vértices e arestas, onde cada aresta conecta dois vértices
