@@ -18,15 +18,21 @@ Ramo da matemática que vai estudar relações entre objetos em um conjunto
 Definimos um grafo G como G(V, E)
 Onde:
 - **V** = Conjunto de **vértices** ou nós, que representam os *objetos*
+	- **Vértices adjacentes:** Se existir uma aresta ligando eles
 - **E** = Conjunto de **arestas**, que representam as *relações*
 	:LiCornerDownRight: As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
-	- **Vértices adjacentes:** Se existir uma aresta ligando eles
+	- Existe uma orientação quanto ao sentido da aresta
+		- Em um 
 *Pode-se dar nomes a vértices e arestas individuais*
 
 ##### Exemplo
 ![[image-3.png]]
 <br>
-###D
+### Dígrafos
+
+
+
+
 ## Tipos de grafo
 [[Tipos de grafo]]
 <br>
