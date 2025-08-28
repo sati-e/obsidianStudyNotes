@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Passeios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grau de um grafo"
+              "title": "Passeios"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Passeios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Grau de um grafo"
+              "title": "Links inversos para Passeios"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Passeios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Grau de um grafo"
+              "title": "Links de saída para Passeios"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafos/Grau de um grafo.md",
+                "file": "Grafos/Passeios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Grau de um grafo"
+              "title": "Sumário de Passeios"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "0daaf388026d9577",
   "lastOpenFiles": [
-    "Grafos/Introdução.md",
     "Grafos/Grau de um grafo.md",
+    "Grafos/Passeios.md",
+    "Grafos/Introdução.md",
     "Grafos/Grafos.md",
     "Sem título.md",
     "Redes de computadores/Ethernet connection.md",

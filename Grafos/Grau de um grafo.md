@@ -1,11 +1,12 @@
 ##### Grau do vértice de um grafo:
 Para um grafo G=(V, A), o grau de um vértice Vi ∈ V é igual ao número de vértices vizinhos conectados a este
-###### O grau mínimo de um grafo é definido por σ = min {d(Vi) : Vi ∈ V};
-$$\sum=min{(D(Vi):Vi∈V}$$
+###### O grau mínimo de um grafo é definido por 
+σ = min {d(Vi) : Vi ∈ V};
 ###### O grau máximo de um grafo  é definido por 
 $$Δ = max{d(Vi) : Vi ∈ V}$$
 ###### O grau médio de um grafo é definido por 
 $$\overline{d}= \frac{\sum^{ |v| }_{ i=1 }d(Vi) }{ |V| } = \frac{d(V1)+d(V2)+d(V3)+...+d(Vn)}{|V|}$$
+
 ##### Grau de um vértice em um Grafo
 ###### Grafo simples
 - d(v): número de vizinhos conectados a "v" = número de arestas incidentes em "v"
@@ -22,17 +23,3 @@ $$\sum^{|V|}_{i=1}d(Vi) = 2|A|$$
 para um Grafo G, o grau em um vértice "v é dado por:
 $$d(v)=n+2p$$n = n° de arestas incidentes em "v"
 p = n° de laços/elos/anéis em "v"
-
-##### Passeios Abertos e Fechados
-###### Passeio fechado
-- o vértice de origem coincide com (igual) o vértice de destino
-**Caminho fechado:** Ciclo
-**Trilho fechado:** Circuito
-
-###### Passeio aberto:
-O vértice de partida é diferente do vértice de chegada
-
-###### Grafo trivial
-- Grafo com, **no máximo, um vértice**
-###### Grafo vazio
-- **Ausência** de vértices/arestas
