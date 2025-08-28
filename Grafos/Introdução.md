@@ -21,12 +21,11 @@ Onde:
 	- **Vértices adjacentes:** Se existir uma aresta ligando eles
 - **E** = Conjunto de **arestas**, que representam as *relações*
 	:LiCornerDownRight: As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
-	- Existe uma orientação quanto ao sentido da aresta
-		- Em um 
-*Pode-se dar nomes a vértices e arestas individuais*
 
+***Dígrafos*** = tipo de grafo onde as arestas possuem uma direção específica.
+<br>
 ##### Exemplo
-![[image-3.png]]
+![[image-3.png |]] 
 <br>
 ### Dígrafos
 
