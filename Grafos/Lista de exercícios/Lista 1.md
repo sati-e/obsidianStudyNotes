@@ -1,3 +1,4 @@
+[[ComputerScience/Grafos/Introdução|Introdução]]
 ##### Exercício 38
 ![[Pasted image 20250828103912.png]]
 

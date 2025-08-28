@@ -24,8 +24,10 @@ Onde:
 
 ***Dígrafos*** = tipo de grafo onde as arestas possuem uma direção específica.
 <br>
-##### Exemplo
-![[image-3.png |]] 
+##### Exemplo de dígrafo
+Cidade 1 só pode ir até a cidade 2, e a cidade 2 só pode ir até a cidade 3
+
+![[image-3.png]] 
 <br>
 ### Dígrafos
 
