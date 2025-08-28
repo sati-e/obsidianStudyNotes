@@ -1,7 +1,7 @@
 ##### Grau do vértice de um grafo:
 Para um grafo G=(V, A), o grau de um vértice Vi ∈ V é igual ao número de vértices vizinhos conectados a este
 ###### O grau mínimo de um grafo é definido por σ = min {d(Vi) : Vi ∈ V};
-$$\sum={D(Vi)}$$
+$$\sum=min{(D(Vi):Vi∈V}$$
 ###### O grau máximo de um grafo  é definido por 
 $$Δ = max{d(Vi) : Vi ∈ V}$$
 ###### O grau médio de um grafo é definido por 
