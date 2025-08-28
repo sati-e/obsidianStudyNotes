@@ -21,8 +21,9 @@ Onde:
 
 ##### Exemplo
 ![[image-3.png]]
-
+<br>
+## Tipos de grafo
 [[Tipos de grafo]]
-
+<br>
 Referências: 
 [grafos: Introdução e algumas Aplicações \[WikiMath\]](https://sites.icmc.usp.br/aurichi/wikimat/doku.php?id=grafos:definicaografos#esta_ficando_um_pouco_quente_nao_grafo_tem_grau)
