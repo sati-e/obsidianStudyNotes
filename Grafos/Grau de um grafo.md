@@ -7,3 +7,5 @@ Grau de um vértice em um Grafo
 TEOREMA: para um grafo G=(V,A), tem-se 
 
 $$$$
+TEOREMA: para um grafo G, o grau em um vértice "v é dado por:
+$$d(v)=n+2p$$ n = 
