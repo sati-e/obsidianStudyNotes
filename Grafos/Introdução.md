@@ -26,6 +26,7 @@ Onde:
 ##### Exemplo
 ![[image-3.png]]
 <br>
+###D
 ## Tipos de grafo
 [[Tipos de grafo]]
 <br>

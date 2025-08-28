@@ -12,4 +12,7 @@
 ##### Grafo Ciclo
 ##### Grafo Roda
 ##### Grafo Estrela
-##### Grafo K-cubo
+##### Grafo k-cubo
+##### Grafo Bipartido
+##### Grafo Ponderado
+##### Grafo Direcionado
