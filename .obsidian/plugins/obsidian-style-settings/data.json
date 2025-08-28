@@ -3,5 +3,6 @@
   "underwater-theme@@underwater-colors-dark": "nord-dark",
   "underwater-theme@@underwater-colors-light": "uw-aqua",
   "maple-editor@@setting-text-bold-style": "\"\"",
-  "maple-editor@@heading-level-enable": true
+  "maple-editor@@heading-level-enable": true,
+  "maple-editor@@heading-color-style": "heading-color-colorful"
 }
