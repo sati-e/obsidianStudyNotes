@@ -1,8 +1,8 @@
 #Grafos
 Indica o número de arestas que conectam um vértice do grafo a outros vértices
  No caso de dígrafos existem dois tipos de graus
- - Grau de entrada: número de arestas que chegam no vértice
- - Grau de saída número de arestas que partem do vértice
+ - **Grau de entrada:** número de arestas que chegam no vértice
+ - **Grau de saída:** número de arestas que partem do vértice
 
 <br>
 ##### Grau do vértice de um grafo:
