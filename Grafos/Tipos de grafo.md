@@ -5,8 +5,9 @@
 ##### Grafo vazio
 :LiCornerDownRight: Possui vértices, mas nenhuma aresta ligando-os
 ##### Grafo Conexo
-:LiCornerDownRight: **Grafo simples** que possui uma aresta entre qualquer par de vértices
+:LiCornerDownRight: Um **Grafo simples** possui pelo menos um caminho entre cada par de vértices
 ##### Grafo Desconexo
+:LiCornerDownRight: 
 ##### Grafo Regular
 ##### Grafo Caminho
 ##### Grafo Ciclo
