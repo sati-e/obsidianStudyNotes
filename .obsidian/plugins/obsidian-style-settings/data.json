@@ -1,3 +1,5 @@
 {
-  "maple-basic@@color-use-custom": false
+  "maple-basic@@color-use-custom": false,
+  "underwater-theme@@underwater-colors-dark": "nord-dark",
+  "underwater-theme@@underwater-colors-light": "uw-aqua"
 }
