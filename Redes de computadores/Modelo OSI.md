@@ -21,7 +21,7 @@
 - Responde a requisições de serviço da camada de Enlace:
 	:LiCornerDownRight: **Transmissão e recepção de dados digitais (bits) entre dois dispositivos.** Os bits são convertidos em sinais elétricos ou ópticos por meio de conexão guiada ou não guiada
 
-### CODIFICAÇÃO DE SINAIS
+#### CODIFICAÇÃO DE SINAIS
 ***CODIFICAÇÃO DE LINHA***
 ***Processo de converter dados binários em sinais digitais***
 - Transferência de sinais digitais e eletrônicos por meio de canais físicos
@@ -32,7 +32,7 @@
 ***Processo de mudar as características de um sinal analógico baseado nas informações de dados digitais***
 
 - Não gerencia diretamente o meio de transmissão onde os dados trafegam
-#### <u>FUNÇÕES</u>:
+###### Funções:
 - **Taxa de dados:** Número de bits enviados a cada segundo, define o tempo de duração de um bit no meio
 - **Sincronização de bits:** Clocks do transmissor e do receptor devem estar sincronizados
 - **Configuração da linha:** ponto-a-ponto, multiponto...
