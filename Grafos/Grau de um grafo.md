@@ -12,4 +12,6 @@ $$d(v)=n+2p$$n = n° de arestas incidentes em "v"
 p = n° de laços/elos/anéis em "v"
 
 Passeios Abertos e Fechados
-- Passeio fechado: o vértice de origem coincide com o vértice de destino 
+Passeio fechado: o vértice de origem coincide com (igual) o vértice de destino
+- Caminho fechado: Ciclo
+- Trilho fechado: Circuito
