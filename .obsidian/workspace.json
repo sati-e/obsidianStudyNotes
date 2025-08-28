@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafos/Passeios.md",
+                "file": "Grafos/Lista de exercícios/L1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passeios"
+              "title": "L1"
+            }
+          },
+          {
+            "id": "88e14aa0a5702e4b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-28 10.29.15.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafos/Passeios.md",
+                "file": "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Passeios"
+              "title": "Links inversos para Drawing 2025-08-28 10.29.15.excalidraw"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafos/Passeios.md",
+                "file": "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Passeios"
+              "title": "Links de saída para Drawing 2025-08-28 10.29.15.excalidraw"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafos/Passeios.md",
+                "file": "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Passeios"
+              "title": "Sumário de Drawing 2025-08-28 10.29.15.excalidraw"
             }
           }
         ]
@@ -167,13 +180,17 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0daaf388026d9577",
+  "active": "88e14aa0a5702e4b",
   "lastOpenFiles": [
-    "Grafos/Grau de um grafo.md",
+    "Grafos/Lista de exercícios/L1.md",
+    "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md",
+    "Excalidraw",
     "Grafos/Passeios.md",
+    "Grafos/Grau de um grafo.md",
     "Grafos/Introdução.md",
     "Grafos/Grafos.md",
     "Sem título.md",
