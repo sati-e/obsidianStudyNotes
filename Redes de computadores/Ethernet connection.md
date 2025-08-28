@@ -1,4 +1,4 @@
-## <font color="#000000">Ethernet - Padrão de comunicação para redes locais cabeadas</font>
+Ethernet - Padrão de comunicação para redes locais cabeadas
 
  *:LiEqualNot: de wi-fi (ondas de rádio)*
 
