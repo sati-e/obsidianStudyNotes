@@ -11,7 +11,7 @@ Definimos um grafo G como G(V, E)
 Onde:
 - V = Conjunto de vértices ou nós, que representam os *objetos*
 - E = Conjunto de arestas, que representam as *relações*
-<br>
+As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
 
 
 Referências: 
