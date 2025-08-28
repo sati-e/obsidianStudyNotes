@@ -1,4 +1,6 @@
 #Grafos
+Indica o número de arestas que conectam um vértice do grafo a outros vértices
+ - número de vizinhos que aque evértice possui no gráfico
 ##### Grau do vértice de um grafo:
 Para um grafo G=(V, A), o grau de um vértice Vi ∈ V é igual ao número de vértices vizinhos conectados a este
 ###### O grau mínimo de um grafo é definido por 

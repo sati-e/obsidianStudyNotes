@@ -3,7 +3,7 @@ Links: [[Tipos de grafo]] [[Passeios]] [[Grau de um grafo]]
 
 *Objetos combinatórios abstratos e flexíveis*
 É um conjunto de vértices e arestas, onde cada aresta conecta dois vértices
-Utilizado para solucionar problemas computáveis, buscam o desenvolvimento de algoritmos mais eficientes:
+Utilizado para solucionar problemas computáveis, buscam o desenvolvimento de algoritmos mais eficientes
 - Rede de computadores
 - Comunicação web
 - Árvores genealógicas
@@ -20,6 +20,7 @@ Onde:
 - **V** = Conjunto de **vértices** ou nós, que representam os *objetos*
 - **E** = Conjunto de **arestas**, que representam as *relações*
 	:LiCornerDownRight: As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
+	- **Vértices adjacentes:** Se existir uma aresta ligando eles
 *Pode-se dar nomes a vértices e arestas individuais*
 
 ##### Exemplo
