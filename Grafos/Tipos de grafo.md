@@ -1,4 +1,7 @@
 #Grafos
 
 ##### Grafos triviais
-Grafo no qual G=(V; ∅)
+:LiCornerDownRight: Grafo com 1 ou nenhum vértice (*grafo vazio*).
+##### Grafo desconexo
+:LiCornerDownRight: N
+
