@@ -22,6 +22,6 @@ p = n° de laços/elos/anéis em "v"
 O vértice de partida é diferente do vértice de chegada
 
 ###### Grafo trivial
-- Grafo com, **no máximo**, um vértice
+- Grafo com, **no máximo, um vértice**
 ###### Grafo vazio
-- Ausência de vértices/arestas
+- **Ausência** de vértices/arestas
