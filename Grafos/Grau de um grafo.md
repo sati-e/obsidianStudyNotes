@@ -1,24 +1,27 @@
 
 ##### Grau de um vértice em um Grafo
-- ###### Grafo simples
-	- d(v): número de vizinhos conectados a "v" = número de arestas incidentes em "v"
-- ###### Grafo geral
-	- d(v): número de arestas incidentes em "v"
+###### Grafo simples
+- d(v): número de vizinhos conectados a "v" = número de arestas incidentes em "v"
+
+###### Grafo geral
+- d(v): número de arestas incidentes em "v"
 
 **TEOREMA:** para um grafo G=(V,A), tem-se 
-
 $$\sum^{|V|}_{i=1}d(Vi) = 2|A|$$
 **TEOREMA:** para um grafo G, o grau em um vértice "v é dado por:
 $$d(v)=n+2p$$n = n° de arestas incidentes em "v"
 p = n° de laços/elos/anéis em "v"
 
 ##### Passeios Abertos e Fechados
-Passeio fechado: o vértice de origem coincide com (igual) o vértice de destino
-- **Caminho fechado:** Ciclo
-- **Trilho fechado:** Circuito
-- **Passeio aberto:** o vértice de partida é diferente do vértice de chegada
+###### Passeio fechado
+- o vértice de origem coincide com (igual) o vértice de destino
+**Caminho fechado:** Ciclo
+**Trilho fechado:** Circuito
 
-Grafo trivial
-- Grafo com, no máximo, um vértice
-Grafo vazio
+###### Passeio aberto:
+O vértice de partida é diferente do vértice de chegada
+
+###### Grafo trivial
+- Grafo com, **no máximo**, um vértice
+###### Grafo vazio
 - Ausência de vértices/arestas
