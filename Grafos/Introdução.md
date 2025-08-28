@@ -1,4 +1,6 @@
-Objetos combinatórios abstratos e flexíveis
+*Objetos combinatórios abstratos e flexíveis*
+- É um conjunto de vértices e arestas, onde cada aresta conecta dois vértices
+
 
 
 Referências: 
