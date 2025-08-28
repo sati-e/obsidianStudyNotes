@@ -14,6 +14,9 @@ Onde:
 	:LiCornerDownRight: As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
 *Pode-se dar nomes a vértices e arestas individuais*
 
+##### Exemplo
+![[image-3.png]]
+
 
 
 Referências: 
