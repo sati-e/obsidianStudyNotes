@@ -17,7 +17,7 @@ Onde:
 ##### Exemplo
 ![[image-3.png]]
 
-##### Número máximo de arestas
+
 
 
 Referências: 
