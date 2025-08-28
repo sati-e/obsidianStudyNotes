@@ -12,7 +12,7 @@ Onde:
 - V = Conjunto de vértices ou nós, que representam os *objetos*
 - E = Conjunto de arestas, que representam as *relações*
 	:LiCornerDownRight: As arestas podem ou não ter direção, e podem ter um peso numérico (custo) associado
-
+Pode-se dar nomes a vértices e arestas individuais
 
 
 
