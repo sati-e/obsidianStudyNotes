@@ -53,10 +53,14 @@
             "id": "0778dad195f214c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Redes de computadores/Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo OSI"
             }
           }
         ],
@@ -213,6 +217,7 @@
   "active": "0778dad195f214c2",
   "lastOpenFiles": [
     "Redes de computadores/Introdução.md",
+    "Redes de computadores/Ethernet connection.md",
     "Excalidraw/Drawing 2025-09-01 11.12.41.excalidraw.md",
     "Excalidraw/Drawing 2025-09-01 11.18.40.excalidraw.md",
     "Excalidraw/image.png",
@@ -222,7 +227,6 @@
     "Pasted image 20250828103912.png",
     "README.md",
     "Grafos/Lista de exercícios/Lista 1.md",
-    "Redes de computadores/Ethernet connection.md",
     "Excalidraw/Drawing 2025-08-28 10.29.15.excalidraw.md",
     "Excalidraw",
     "Grafos/Passeios.md",
