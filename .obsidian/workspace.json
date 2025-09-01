@@ -53,12 +53,10 @@
             "id": "0778dad195f214c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-01 11.12.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-01 11.12.41.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -214,13 +212,13 @@
   },
   "active": "0778dad195f214c2",
   "lastOpenFiles": [
+    "Redes de computadores/Introdução.md",
+    "Excalidraw/Drawing 2025-09-01 11.12.41.excalidraw.md",
     "Excalidraw/Drawing 2025-09-01 11.18.40.excalidraw.md",
     "Excalidraw/image.png",
     "Redes de computadores/Modelo OSI.md",
     "Redes de computadores/IEEE.md",
-    "Excalidraw/Drawing 2025-09-01 11.12.41.excalidraw.md",
     "Excalidraw/Drawing 2025-09-01 11.09.44.excalidraw.md",
-    "Redes de computadores/Introdução.md",
     "Pasted image 20250828103912.png",
     "README.md",
     "Grafos/Lista de exercícios/Lista 1.md",
