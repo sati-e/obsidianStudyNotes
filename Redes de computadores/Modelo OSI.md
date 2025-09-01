@@ -57,3 +57,5 @@ Seu **desempenho** pode ser medido por diversos parâmetros, incluindo **latênc
 Referências: 
 [Introdução às Redes de Computadores IFRN](https://docente.ifrn.edu.br/thiagodutra/disciplinas/materiais/introducao-as-redes-de-computadores/2019.2/07-camada-fisica-i)
 [As camadas do modelo OSI ilustradas - Terminalizando a Informática](https://terminalizando.com.br/as-camadas-do-modelo-osi-ilustradas)
+
+
