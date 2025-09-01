@@ -1,3 +1,5 @@
+#redes 
+
 *Modelo teórico desenvolvido na década de 80 pela ISO que descreve como os dados são transmitidos em uma rede de computadores.*
 
 <center>Surgiu pela necessidade de padronizar a comunicação entre sistemas abertos</center>

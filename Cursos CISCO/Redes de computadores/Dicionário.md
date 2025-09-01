@@ -1,0 +1,2 @@
+Interface de rede: Ponto de conexão, que permite a conexão de um dispositivo em uma rede, e troque dados com outros dispositivos (geralmente NIC)
+Máscara de sub-rede: Utilizada para identificara a rede à qual o host está conectada

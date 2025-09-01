@@ -1,3 +1,5 @@
+#redes 
+
 Ethernet - Padrão de comunicação para redes locais cabeadas
 
  *:LiEqualNot: de wi-fi (ondas de rádio)*
