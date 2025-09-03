@@ -1,2 +1,3 @@
 Interface de rede: Ponto de conexão, que permite a conexão de um dispositivo em uma rede, e troque dados com outros dispositivos (geralmente NIC)
 Máscara de sub-rede: Utilizada para identificara a rede à qual o host está conectada
+SIP: Internet Service Provider, uma empresa de transporte que cuida de suas estradas e rotas locais, a empresa que fornece acesso à internet (fornece o IP público, roteia o tráfego, mantém a conexão...).
