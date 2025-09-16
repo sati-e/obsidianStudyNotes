@@ -1,3 +1,2 @@
 # ObsidianStudyNotes
 
-maple
