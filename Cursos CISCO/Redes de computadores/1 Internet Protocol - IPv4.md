@@ -1,10 +1,8 @@
 #redes #cybersec 
 Atualmente a maioria dos computadores utilizam dual stack, uma tecnologia de rede que permite o uso do IPv4 e do IPv6 em um mesmo dispositivo.
-<br>
 Na prática, normalmente quem define a rede lógica é o roteador, pois é quem conecta a rede local com a internet. Mas pode ser o DHCP, administradores, firewall, switch...
 <br>
 Roteamento = tecnologia que permite computadores em redes lógicas diferentes se comuniquem
-<br>
 ##### IPs
 - Endereço lógico
 - Identifica um host específico
@@ -25,7 +23,7 @@ Ex decimal: `209.165.200.1`
 **Ex:** `IP: 192.168.1.10`
 **Parte da rede:** `192.168.1` → todos os dispositivos dessa rede têm essa parte igual.
 **Parte do host:** 10 → identifica **esse dispositivo específico** dentro da rede `192.168.1.0.`
-<br>
+
 ## Tipos de endereço IP - transmissão
 - Unicast
 - Broadcast
@@ -52,7 +50,7 @@ Parte de host: últimos 8 bits *(`0` a `255`)*
 Permite que o host envie um pacote para um conjunto de host selecionados, que participem de um multicast.
 - Os host que recebem são chamados de clientes multicast, eles precisam estar inscritos no grupo multicast. *(Lógica de inscrição e gerenciamento feita por software)*
 - Casa grupo multicast é representado por um único endereço multicast de destino
-- IPv4 reservou o intervalo `24.0.0.0` a `239.255.255.255` para multicast, cada grupo tem um endereço dentro deste intervalo.
+- IPv4 reservou o intervalo `224.0.0.0` a `239.255.255.255` para multicast, cada grupo tem um endereço dentro deste intervalo.
 Ex: `224.1.1.1` é um endereço multicast, mas não pertence a nenhum dispositivo específico. Ele representa **um grupo de dispositivos** que se inscreveram para receber pacotes destinados a esse endereço, ou seja, quando alguém envia um pacote para `224.1.1.1`, todos os dispositivos da lista recebem o pacote.
 :LiCornerDownRight: Cada dispositivo do grupo **continua tendo seu IP unicast normal**, mas também “ouve” o endereço multicast do grupo.
 
@@ -69,11 +67,12 @@ Foram introduzidos devido ao esgotamento de espaço de endereços *(antes do IPv
 A maioria das redes internas usa endereços privados para endereçar dispositivos internos, mas não são globalmente roteáveis.
 - Reservados pela RFC 1918 *(Request for Comments)*, padronizou as faixas dedicadas para uso interno:
 
-| Endereços e prefixos da rede | Intervalo de endereços provados RFC 1918 |
+| Endereços e prefixos da rede | Intervalo de endereços privados RFC 1918 |
 | :--------------------------- | ---------------------------------------- |
 | `10.0.0.0/8`                 | `10.0.0.0 – 10.255.255.255`              |
 | `172.16.0.0/12`              | `172.16.0.0 – 172.31.255.255`<br>        |
 | `192.168.0.0/16`             | `192.168.0.0 – 192.168.255.255`          |
+
 >[!Warning] Eles não são únicos, então nenhum roteador na internet deve encaminhar pacotes vindo destes endereços
 - Não exclusivos
 <br>
@@ -103,6 +102,41 @@ Usado principalmente em servidores que precisam ser acessíveis pela internet *(
 ###### NAT Dinâmico
 Usado principalmente em redes que precisam de conectividade de saída com a internet
 
+## Uso especial IPv4
+Existem endereços especiais que podem ser atribuídos a hosts, mas possuem restrições de como interagem na rede
+##### Endereços de loopback
+`127.0.0.1`
+"localhost", usados por um host para direcionar o tráfego para ele mesmo, servem para:
+- Testes de servidor
+- Segurança
+- Ambiente de desenvolvimento local
+##### Endereços locais de link - APIPA ou auto-atribuídos
+`169.254.0.0/16` ou `169.254.0.1` a `169.254.255.254`
+Usado *(no windows)* para comunicação dentro de uma única rede local, atribuídos automaticamente a dispositivos em uma rede local quando o DHCP não está disponível
+
+## Endereçamento Classful Legado
+Atualmente não é mais utilizado, em 1990, com a WWW, ele não se via mais eficaz, então foi substituído por endereços sem classe, que ignora essas regras.
+Entretanto, em 1981, a RFC dividiu os intervalos de unicast em classes:
+##### Classe A 
+`0.0.0.0/8` a `127.0.0.0/8`
+Projetado para suportar  **redes extremamente grandes**.
+##### Classe B
+`128.0.0.0/16` a `191.255.0.0/16`
+Oferecer suporte às necessidades de **redes de tamanho moderado** a grande.
+##### Classe C 
+`192.0.0.0/16` a `223.255.255.0/8`
+Oferecer suporte a **pequenas redes**.
+<br>
+# Atribuição de Endereços IP
+## Regional Internet Registries
+Os endereços IPv4 E IPv6 são gerenciados pela IANA, que gerencia e aloca blocos de endereços IP aos registros regionais da Internet RIRs *(existem cinco)*.
+**ARIN** → América do Norte
+**LACNIC** → América Latina e Caribe
+**RIPE NCC** → Europa, Oriente Médio, partes da Ásia Central
+**APNIC** → Ásia e Pacífico
+**AFRINIC** → África
+
+
 <br>
 <br>
 ##### Anotações pessoais
@@ -113,3 +147,4 @@ Analogia sobre como funciona o IP e links:
 Então: **você precisa saber onde está o baú e ter a chave certa para pegar o tesouro.**
 <br>
 Referências adicionais: https://www.fortinet.com/br/resources/cyberglossary/network-address-translation
+https://www.hostwinds.pt/blog/loopback-address
