@@ -1,4 +1,4 @@
-#redes #cybersec 
+#redes 
 Atualmente a maioria dos computadores utilizam dual stack, uma tecnologia de rede que permite o uso do IPv4 e do IPv6 em um mesmo dispositivo.
 Na prática, normalmente quem define a rede lógica é o roteador, pois é quem conecta a rede local com a internet. Mas pode ser o DHCP, administradores, firewall, switch...
 <br>
@@ -112,7 +112,7 @@ Existem endereços especiais que podem ser atribuídos a hosts, mas possuem rest
 - Ambiente de desenvolvimento local
 ##### Endereços locais de link - APIPA ou auto-atribuídos
 `169.254.0.0/16` ou `169.254.0.1` a `169.254.255.254`
-Usado *(no windows)* para comunicação dentro de uma única rede local, atribuídos automaticamente a dispositivos em uma rede local quando o DHCP não está disponível
+Usado *(no windows)* para comunicação dentro de uma única rede local, **atribuídos automaticamente a dispositivos em uma rede local quando o DHCP não está disponível**
 
 ## Endereçamento Classful Legado
 Atualmente não é mais utilizado, em 1990, com a WWW, ele não se via mais eficaz, então foi substituído por endereços sem classe, que ignora essas regras.
@@ -120,12 +120,16 @@ Entretanto, em 1981, a RFC dividiu os intervalos de unicast em classes:
 ##### Classe A 
 `0.0.0.0/8` a `127.0.0.0/8`
 Projetado para suportar  **redes extremamente grandes**.
+- 16.777216 endereços
 ##### Classe B
 `128.0.0.0/16` a `191.255.0.0/16`
 Oferecer suporte às necessidades de **redes de tamanho moderado** a grande.
+- 65.536 endereços
 ##### Classe C 
 `192.0.0.0/16` a `223.255.255.0/8`
 Oferecer suporte a **pequenas redes**.
+- 256 endereços
+>[!Warning] Existe a classe D *(multicast)* e E *(testes de novas tecnologias)* que, diferente dos outros, não são usadas pela internet para atribuir endereços a hosts
 <br>
 # Atribuição de Endereços IP
 ## Regional Internet Registries

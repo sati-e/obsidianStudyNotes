@@ -1,0 +1,12 @@
+[[obsidianStudyNotes/Cursos CISCO/Redes de computadores/Introdução|Introdução]]
+[[Segmentação de rede]]
+[[Limites de rede]]
+[[Dicionário]]
+[[Atribuição de endereço IPv4]]
+[[2 Internet Protocol - IPv6]]
+[[1 Internet Protocol - IPv4]]
+[[Ethernet connection]]
+[[IEEE]]
+[[obsidianStudyNotes/Cursos CISCO/Redes de computadores/Introdução|Introdução]]
+[[Modelo OSI]]
+

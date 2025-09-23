@@ -1,3 +1,4 @@
+#Grafos 
 Um grafo **conexo** G=(V, A), é euleriano se contiver um circuito euleriano, existir um circuito que contenha todas as arestas de G, passando pelas mesmas uma única vez. Significando que é possível percorrer cada aresta exatamente uma vez e terminar no vértice de partida.
 **Trilha euleriana:** Trilha que passa por cada aresta uma única vez
 - **Aberta:** Grafo semi-euleriano

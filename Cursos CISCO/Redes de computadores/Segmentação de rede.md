@@ -1,3 +1,4 @@
+#redes 
 ## Domínios de Broadcast e segmentação
 A segmentação é uma abordagem de arquitetura que divide uma rede em vários segmentos ou sub-redes, permitindo administradores controlarem o fluxo de tráfego entre elas. 
 - Melhor monitoramento

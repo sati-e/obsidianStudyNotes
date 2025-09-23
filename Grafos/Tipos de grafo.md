@@ -1,4 +1,3 @@
-
 #Grafos
 
 ##### Grafos triviais
@@ -60,6 +59,17 @@ Um grafo G=(V,A) é bipartido se o seu conjunto de vértices V pode ser particio
 Grafo G=(V, A) onde se associe um valor Wij, também denominado "peso", associado à aresta que conecta os vértice Vi, Vj ∈ V, pode determinar distâncias, tempos, custos...
 
 ##### Grafo Direcionado
+<<<<<<< HEAD
 
 <br>
 ref: https://www.youtube.com/watch?v=m4t6D24R5k8
+=======
+Grafo que possui direção específica, indicando uma relação unidirecional entre os vértices
+
+##### Grafo Euleriano
+[[Grafo euleriano]]
+Um grafo **conexo** G=(V, A), é euleriano se contiver um circuito euleriano, existir um circuito que contenha todas as arestas de G, passando pelas mesmas uma única vez. Significando que é possível percorrer cada aresta exatamente uma vez e terminar no vértice de partida.
+**Trilha euleriana:** Trilha que passa por cada aresta uma única vez
+- **Aberta:** Grafo semi-euleriano
+- **Fechada:** Grafo euleriano
+>>>>>>> a1ef5203fccfb1d86bec9ee5c75c8a2f8d59d9b8

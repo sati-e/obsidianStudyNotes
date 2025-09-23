@@ -1,3 +1,4 @@
+#redes 
 Os endereços podem ser atribuídos estática ou dinamicamente
 ## Estático
 O administrados de rede deve configurar manualmente as informações da rede para um host, com no mínimo:

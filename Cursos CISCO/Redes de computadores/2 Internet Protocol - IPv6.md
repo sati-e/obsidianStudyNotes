@@ -1,3 +1,4 @@
+#redes 
 Endereços de `128 bits`
 A IoT, fez crescer o número de dispositivos que acessam a internet, e o esgotamento do IPv4 é o motivador da migração para o IPv6.
 Atualmente a maioria dos dispositivos utilizam dual-stack por ainda estar em transição, entretanto o ideal é a comunicação IPv6 nativa de origem até o destino.
